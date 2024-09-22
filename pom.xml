@@ -19,7 +19,7 @@
 <!--        <module>chat-service</module>-->
 <!--        <module>discovery-service</module>-->
         <module>auth-service</module>
-<!--        <module>user-service</module>-->
+        <module>user-service</module>
 <!--        <module>search-service</module>-->
 <!--        <module>kafka-to-elastic-service</module>-->
 <!--        <module>kafka</module>-->
