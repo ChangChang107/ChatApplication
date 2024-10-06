@@ -16,8 +16,8 @@
     <description>Spring Chat Application</description>
     <modules>
 <!--        <module>gateway-service</module>-->
-<!--        <module>chat-service</module>-->
-<!--        <module>discovery-service</module>-->
+        <module>chat-service</module>
+        <module>discovery-service</module>
         <module>auth-service</module>
         <module>user-service</module>
 <!--        <module>search-service</module>-->
@@ -29,7 +29,7 @@
 <!--        <module>migrations</module>-->
 <!--        <module>migrations/notification-db</module>-->
 <!--        <module>migrations/user-db</module>-->
-<!--        <module>rabbitmq</module>-->
+        <module>rabbitmq</module>
     </modules>
 
     <repositories>
