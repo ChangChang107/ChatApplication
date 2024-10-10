@@ -15,7 +15,7 @@
     <name>Jasmine-Application</name>
     <description>Spring Chat Application</description>
     <modules>
-<!--        <module>gateway-service</module>-->
+        <module>gateway-service</module>
         <module>chat-service</module>
         <module>discovery-service</module>
         <module>auth-service</module>
