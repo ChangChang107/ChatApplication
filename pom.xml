@@ -24,7 +24,7 @@
 <!--        <module>kafka-to-elastic-service</module>-->
 <!--        <module>kafka</module>-->
         <module>common</module>
-<!--        <module>elastic</module>-->
+        <module>elastic</module>
 <!--        <module>asset-service</module>-->
 <!--        <module>migrations</module>-->
 <!--        <module>migrations/notification-db</module>-->
