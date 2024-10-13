@@ -22,7 +22,7 @@
         <module>user-service</module>
 <!--        <module>search-service</module>-->
 <!--        <module>kafka-to-elastic-service</module>-->
-<!--        <module>kafka</module>-->
+        <module>kafka</module>
         <module>common</module>
         <module>elastic</module>
 <!--        <module>asset-service</module>-->
